@@ -1,0 +1,6 @@
+{
+    "database-address": "172.20.0.2",
+    "database-type": "mongo",
+    "plugin-dir": "plugins",
+    "service-port": "9015"
+}
